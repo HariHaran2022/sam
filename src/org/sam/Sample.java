@@ -7,4 +7,7 @@ private void test() {
 private void test1() {
 System.out.println("test 1");
 }
+private void test3() {
+System.out.println("test 3");
+}
 }
